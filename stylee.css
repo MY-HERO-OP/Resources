@@ -1,0 +1,13 @@
+
+html {
+    cursor: url(assets/spaceship.png), auto;
+    background: #f8f8ff;
+}
+
+body {
+	background-image: url('https://graph.org/file/add78137c50cfad5524c4.jpg');
+	background-image: no repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+		
+}
