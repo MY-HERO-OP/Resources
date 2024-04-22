@@ -7,6 +7,7 @@ span {
     color: var(--mycol);
 }
 
+
 * {
     margin: 0;
     padding: 0;
@@ -27,6 +28,8 @@ body {
     width: 100%;
     /* background-image: url(back_image); */
     background-color: #141313;
+	cursor: url(assets/spaceship.png), auto;
+    font-family: 'Roboto';
 }
 
 
@@ -67,7 +70,6 @@ a {
     margin: 0 3px;
     text-decoration: none;
     position: relative;
-    cursor: pointer;
 }
 
 .nryt a::after {
@@ -112,7 +114,7 @@ a {
     height: auto;
     padding: 20px;
     border-radius: 5px;
-    background: linear-gradient(to bottom, rgba(52, 52, 52, 0.301), rgba(153, 153, 153, 0.075));
+    background: linear-gradient(to bottom, rgba(101, 236, 236, 0.301), rgba(238, 255, 0, 0.671));
 }
 
 .file-name h4 {
@@ -127,13 +129,15 @@ a {
     /* flex-direction: column; */
     flex-wrap: wrap;
     gap: 20px;
+	cursor: url(assets/spaceship.png), auto;
+    font-family: 'Roboto';
 
 }
 
 .downloadBtn button {
     opacity: 0;
     border-radius: 6px;
-    background: linear-gradient(to bottom, rgba(247, 247, 247, 0.187), rgba(240, 240, 240, 0.105));
+    background: linear-gradient(to bottom, rgba(251, 255, 0, 0.39), rgba(0, 248, 0, 0.24));
     height: 50px;
     width: 300px;
     display: flex;
@@ -141,8 +145,10 @@ a {
     font-weight: 700;
     gap: 10px;
     padding-left: 50px;
-    border: none;
     text-transform: uppercase;
+    box-shadow:0 0 1rem 0 rgb(255, 0, 255);
+	cursor: url(assets/spaceship.png), auto;
+    font-family: 'Roboto';
 }
 
 .downloadBtn img {
@@ -264,7 +270,7 @@ a {
     height: 50px;
     border-radius: 6px;
     border: none;
-    background: linear-gradient(to top, rgba(46, 46, 46, 0.365), rgba(46, 46, 46, 0.443));
+    background: linear-gradient(to top, rgba(46, 46, 46, 0.365), rgba(189, 226, 24, 0.443));
     font-size: 15px;
     font-weight: 550;
     transition: all 0.4s ease;
@@ -453,6 +459,8 @@ button:active {
     display: flex;
     flex-direction: column;
     align-items: center;
+	cursor: url(assets/spaceship.png), auto;
+    font-family: 'Roboto';
 
 }
 
