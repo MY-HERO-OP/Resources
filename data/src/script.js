@@ -47,7 +47,7 @@ let footer = document.querySelector('footer')
 let timer = 0
 
 if (document.getElementById("heading").classList.contains("title")) {
-    document.querySelector(".title").textContent = 'WOODcraft'
+    document.querySelector(".title").textContent = '𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭 𝐌𝐢𝐫𝐫𝐨𝐫 𝐙𝐨𝐧𝐞™'
 }
 
 // adding under in home btn at first 
