@@ -28,7 +28,7 @@ body {
     width: 100%;
     /* background-image: url(back_image); */
     background-color: #141313;
-	cursor: url(assets/spaceship.png), auto;
+	cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
 }
 
@@ -129,7 +129,7 @@ a {
     /* flex-direction: column; */
     flex-wrap: wrap;
     gap: 20px;
-	cursor: url(assets/spaceship.png), auto;
+	cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
 
 }
@@ -147,7 +147,7 @@ a {
     padding-left: 50px;
     text-transform: uppercase;
     box-shadow:0 0 1rem 0 rgb(255, 0, 255);
-	cursor: url(assets/spaceship.png), auto;
+	cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
 }
 
@@ -459,7 +459,7 @@ button:active {
     display: flex;
     flex-direction: column;
     align-items: center;
-	cursor: url(assets/spaceship.png), auto;
+	cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
 
 }
