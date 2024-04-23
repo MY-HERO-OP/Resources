@@ -1302,7 +1302,7 @@ a.plyr__control:before {
 }
 
 .plyr--fullscreen-fallback.plyr--hide-controls {
-    cursor: url(./assets/spaceship.png), auto;
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
 }
 
@@ -1316,8 +1316,7 @@ a.plyr__control:before {
 .plyr__ads {
     border-radius: inherit;
     bottom: 0;
-    cursor: url(./assets/spaceship.png), auto;
-    font-family: 'Roboto';: url(./assets/spaceship.png), auto;
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
     left: 0;
     overflow: hidden;
