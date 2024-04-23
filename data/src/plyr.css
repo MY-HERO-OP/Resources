@@ -170,8 +170,7 @@
     border-radius: 3px;
     border-radius: var(--plyr-control-radius, 3px);
     color: inherit;
-    cursor: url(./assets/spaceship.png), auto;
-    font-family: 'Roboto';: url(./assets/spaceship.png), auto;
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
     flex-shrink: 0;
     overflow: visible;
@@ -1163,8 +1162,8 @@ a.plyr__control:before {
 }
 
 .plyr:fullscreen.plyr--hide-controls {
-    cursor: url(./assets/spaceship.png), auto;
-    font-family: 'Roboto';: none
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
+    font-family: 'Roboto';
 }
 
 @media (min-width: 1024px) {
@@ -1200,8 +1199,8 @@ a.plyr__control:before {
 }
 
 .plyr:-webkit-full-screen.plyr--hide-controls {
-    cursor: url(./assets/spaceship.png), auto;
-    font-family: 'Roboto';: none
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
+    font-family: 'Roboto';
 }
 
 @media (min-width: 1024px) {
@@ -1232,8 +1231,8 @@ a.plyr__control:before {
 }
 
 .plyr:-moz-full-screen.plyr--hide-controls {
-    cursor: url(./assets/spaceship.png), auto;
-    font-family: 'Roboto';: none
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
+    font-family: 'Roboto';
 }
 
 @media (min-width: 1024px) {
@@ -1264,8 +1263,8 @@ a.plyr__control:before {
 }
 
 .plyr:-ms-fullscreen.plyr--hide-controls {
-    cursor: url(./assets/spaceship.png), auto;
-    font-family: 'Roboto';: none
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
+    font-family: 'Roboto';
 }
 
 @media (min-width: 1024px) {
@@ -1304,7 +1303,7 @@ a.plyr__control:before {
 
 .plyr--fullscreen-fallback.plyr--hide-controls {
     cursor: url(./assets/spaceship.png), auto;
-    font-family: 'Roboto';: none
+    font-family: 'Roboto';
 }
 
 @media (min-width: 1024px) {
