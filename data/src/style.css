@@ -28,7 +28,7 @@ body {
     width: 100%;
     /* background-image: url(back_image); */
     background-color: #141313;
-	cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
 }
 
@@ -114,7 +114,8 @@ a {
     height: auto;
     padding: 20px;
     border-radius: 5px;
-    background: linear-gradient(to bottom, rgba(101, 236, 236, 0.301), rgba(238, 255, 0, 0.671));
+    background: linear-gradient(to bottom, rgba(52, 52, 52, 0.829), rgba(94, 195, 202, 0.13));
+    box-shadow:0 0 1rem 0 rgb(253, 253, 253);
 }
 
 .file-name h4 {
@@ -129,7 +130,7 @@ a {
     /* flex-direction: column; */
     flex-wrap: wrap;
     gap: 20px;
-	cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
 
 }
@@ -137,22 +138,23 @@ a {
 .downloadBtn button {
     opacity: 0;
     border-radius: 6px;
-    background: linear-gradient(to bottom, rgba(251, 255, 0, 0.39), rgba(0, 248, 0, 0.24));
+    background: linear-gradient(to bottom, rgba(29, 116, 7, 0.192), rgba(10, 10, 10, 0.432));
     height: 50px;
     width: 300px;
     display: flex;
     align-items: center;
     font-weight: 700;
-    gap: 10px;
+    gap: 20px;
     padding-left: 50px;
+    border: none;
     text-transform: uppercase;
-    box-shadow:0 0 1rem 0 rgb(255, 0, 255);
-	cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
+    box-shadow:0 0 1rem 0 rgb(253, 253, 253);
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
 }
 
 .downloadBtn img {
-    height: 20px;
+    height: 40px;
 }
 
 .abt {
@@ -459,7 +461,7 @@ button:active {
     display: flex;
     flex-direction: column;
     align-items: center;
-	cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
+    cursor: url(https://my-hero-op.github.io/Resources/assets/spaceship.png), auto;
     font-family: 'Roboto';
 
 }
