@@ -80,6 +80,7 @@ body {
     cursor: pointer;          /* কিউসর পয়েন্টার */
     width: 100%;               /* বাটন পুরো প্রস্থ নিবে */
     box-shadow: 0 5px #666;
+    margin-bottom: 20px;
     text-decoration: none;
 }
 
