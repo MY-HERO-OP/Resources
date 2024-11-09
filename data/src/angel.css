@@ -79,7 +79,8 @@ body {
     background-color: #007bff; /* বাটনের ব্যাকগ্রাউন্ড রঙ */
     cursor: pointer;          /* কিউসর পয়েন্টার */
     width: 100%;               /* বাটন পুরো প্রস্থ নিবে */
-    box-shadow: 0 5px #666;	
+    box-shadow: 0 5px #666;
+	text-decoration: none;
 }
 
 /* বাটনের উপর হোভার ইফেক্ট */
